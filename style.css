@@ -1,0 +1,69 @@
+body{
+	background-color: #84ACB6;
+	max-width: 800px;
+}
+
+h1 {
+  color: white;
+  font-family: arial;
+  size:20px;
+  text-align: left;
+  margin-left: 20%;
+}
+
+h2{
+	color: white;
+  font-family: arial;
+  size:16px;
+  text-align: left;
+  margin-left: 15%;
+}
+
+h3{
+	color: white;
+  font-family: arial;
+  size:14px;
+  text-align: left;
+  margin-left: 15%;
+}
+
+a{
+	font-family: arial;
+	color: #383C4B;
+	text-decoration-line: none;
+	text-align: center;
+}
+
+p{
+	font-family: arial;
+	color: #383C4B;
+}
+
+.textwrapper{
+	margin-left: 15%;
+	max-width: 500px;
+	text-align: left;
+}
+.linkswrapper{
+	text-align: left;
+	margin-bottom: 100px;
+	word-spacing: 40px;
+}
+
+ul{
+	padding: 5px;
+	font-family: arial;
+	color: #383C4B;
+}
+
+.listpros{
+	margin: 30px;
+}
+
+img{
+	width: 40%;
+	height: 40%;
+	margin-left: 20%;
+	display: block;
+
+}
